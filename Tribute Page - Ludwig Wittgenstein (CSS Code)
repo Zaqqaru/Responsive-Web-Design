@@ -1,17 +1,16 @@
 style {
-
 html {
   font-size: 10px;
   font-family: helvetica;
   color: white;
-} 
+}
 
 #main {
-  background-color: #0B3954;
+  background-color: #0b3954;
 }
 
 h1 {
-  color: #E0ECF5;
+  color: #e0ecf5;
   font-size: 4rem;
   padding: 30px 10px 20px 10px;
   margin: 1px;
@@ -22,7 +21,7 @@ h1 {
 }
 
 h2 {
-  color: #E0ECF5;
+  color: #e0ecf5;
   font-size: 2.7rem;
   margin: 10px 1px 20px 1px;
 }
@@ -45,7 +44,7 @@ figcaption {
 }
 
 .orc-background {
-  background-color: #FF5A5F;
+  background-color: #ff5a5f;
   padding: 0.5rem 2rem 0.5rem 2rem;
 }
 
@@ -80,19 +79,19 @@ a:visited {
     font-size: 0.2rem;
     margin: 0;
   }
-  
+
   .list {
     width: 80vw;
     text-align: center;
     position: relative;
     right: 180px;
   }
-  
-   .info {
+
+  .info {
     position: relative;
     left: 10px;
   }
-  
+
   .footer {
     height: 35vmin;
   }
