@@ -2,40 +2,47 @@
 <html>
 <main id="main">
   <title id="title">Ludwig Wittgenstein</title>
-  
-    <head>
-      <center><h1 class="ms-background"><u>Ludwig Wittgenstein (1889-1951)</u></h1>
-    <h2>The Prince of Language</h2>
-     </center> 
+
+  <head>
+    <center>
+      <h1 class="ms-background"><u>Ludwig Wittgenstein (1889-1951)</u></h1>
+      <h2>The Prince of Language</h2>
+    </center>
   </head>
-    
-    <body>
-      <div id="img-div">
-        <center><img id="image" class="thin-black-border responsive-img" src= "https://www.biografiasyvidas.com/biografia/w/fotos/wittgenstein.jpg" alt="Ludwig Wittgenstein."></center>
-        <center><figcaption id="img-caption"><em> Portrait of Ludwig Wittgenstein taken in Cambridge, England, in 1929.</em> </figcaption> </center>
-      </div>
-  
-      <div class="list" align="justify">
-        <p id="tribute-info" class="orc-background info">Ludwig Wittgenstein was an Austro-British philosopher who made multiple contributions to analytic philosophy related to the fields of philosophy of language, logic, philosophy of mathematics and philosophy of mind. Here are a few impressive facts about his life and work to spark your curiosity:</p>
+
+  <body>
+    <div id="img-div">
+      <center><img id="image" class="thin-black-border responsive-img" src="https://www.biografiasyvidas.com/biografia/w/fotos/wittgenstein.jpg" alt="Ludwig Wittgenstein."></center>
+      <center>
+        <figcaption id="img-caption"><em> Portrait of Ludwig Wittgenstein taken in Cambridge, England, in 1929.</em> </figcaption>
+      </center>
+    </div>
+
+    <div class="list" align="justify">
+      <p id="tribute-info" class="orc-background info">Ludwig Wittgenstein was an Austro-British philosopher who made multiple contributions to analytic philosophy related to the fields of philosophy of language, logic, philosophy of mathematics and philosophy of mind. Here are a few impressive facts about his life and work to spark your curiosity:</p>
       <ul>
         <li>Before devoting himself to philosophy, Wittgenstein studied mechanical engineering in Berlin and specialized in aeronautics in Manchester. Despite this, upon learning about the work of the philosopher of language Gottlob Frege and - particularly - the work of the brilliant and erudite Bertrand Russell, Wittgenstein turned his career towards philosophy at the University of Cambridge, where Professor Russell became his main mentor.</li>
-        
+
         <li>After the publication in 1929 of his seminal work, entitled <em>Tractatus Logico-Philosophicus</em>, Wittgenstein revolutionized the understanding of the structure and scope of language, defining and systematizing its relation to reality, famously declaring that “What can be said at all can be said clearly, and whereof one cannot speak, thereof one must be silent.”.</li>
 
-    <li>What is impressive about this book is not only the establishment of the limits within which language operates, his seemingly acid and destructive critique of metaphysics and the innovative writing style he used in it, but the very conditions under which he wrote it: Wittgenstein did much of the intellectual work to produce his Tractatus while fighting in the First World War. The Tractatus Logico-Philosophicus changed the approach to the Philosophy of Language, and had a great impact on philosophical schools such as the Austrian School.</li>
-     
-     <li>Wittgenstein taught at the University of Cambridge from 1929 to 1947, where he was appointed as a lecturer and as a fellow. According to the accounts of those who attended his lectures, Professor Wittgenstein had a very particular character: he did not allow anyone to interrupt him with questions or comments, he often remained silent for periods of time while musing about the subject in hand and, in general, he developed in his lectures original thoughts that occurred to him on the spot.</li>
-      
-      <li>It wasn't all dense philosophical analysis for Professor Wittgenstein: the man enjoyed watching Western-themed movies and detective novels in his spare time.</li>
+        <li>What is impressive about this book is not only the establishment of the limits within which language operates, his seemingly acid and destructive critique of metaphysics and the innovative writing style he used in it, but the very conditions under which he wrote it: Wittgenstein did much of the intellectual work to produce his Tractatus while fighting in the First World War. The Tractatus Logico-Philosophicus changed the approach to the Philosophy of Language, and had a great impact on philosophical schools such as the Austrian School.</li>
 
-     <li>In April 1951, Ludwig Wittgenstein suffered a fulminating illness that culminated in his death on the 28th, only two days after his 62nd birthday. At the time of his death Wittgenstein was working on several manuscripts, some of which were published posthumously. Probably the most notable of these was his <em>Philosophical Investigations</em> (1953), an impressive compendium of thoughts and structured annotations where Wittgenstein disrupted (once again) the principles already considered canon in philosophy of language, even those he himself had established in his early <em>Tractatus</em>.</li>
+        <li>Wittgenstein taught at the University of Cambridge from 1929 to 1947, where he was appointed as a lecturer and as a fellow. According to the accounts of those who attended his lectures, Professor Wittgenstein had a very particular character: he did not allow anyone to interrupt him with questions or comments, he often remained silent for periods of time while musing about the subject in hand and, in general, he developed in his lectures original thoughts that occurred to him on the spot.</li>
+
+        <li>It wasn't all dense philosophical analysis for Professor Wittgenstein: the man enjoyed watching Western-themed movies and detective novels in his spare time.</li>
+
+        <li>In April 1951, Ludwig Wittgenstein suffered a fulminating illness that culminated in his death on the 28th, only two days after his 62nd birthday. At the time of his death Wittgenstein was working on several manuscripts, some of which were published posthumously. Probably the most notable of these was his <em>Philosophical Investigations</em> (1953), an impressive compendium of thoughts and structured annotations where Wittgenstein disrupted (once again) the principles already considered canon in philosophy of language, even those he himself had established in his early <em>Tractatus</em>.</li>
 
         <p><strong>April 28, 2022 marked the 71st anniversary of Ludwig Wittgenstein's death.</strong> We hope that this short introduction to his genius has inspired you to find out more about the extraordinary life of the Prince of Language. </p>
-        </ul></div>
-        </body>
-<div class="orc-background footer">
-<p><center>If you would like to learn more about the life and work of Ludwig Wittgenstein, you can access his <a id="tribute-link" target="_blank" href="https://en.wikipedia.org/wiki/Ludwig_Wittgenstein">Wikipedia Page</a>.</center>
-  </p></div>
-  
-</main> 
+      </ul>
+    </div>
+  </body>
+  <div class="orc-background footer">
+    <p>
+      <center>If you would like to learn more about the life and work of Ludwig Wittgenstein, you can access his <a id="tribute-link" target="_blank" href="https://en.wikipedia.org/wiki/Ludwig_Wittgenstein">Wikipedia Page</a>.</center>
+    </p>
+  </div>
+
+</main>
+
 </html>
