@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<main class="main">
+  <title>Board Games Survey</title>
+
+  <div class="head">
+
+    <head id="head">
+      <center>
+        <h1 id="title">What is your favourite Board Game Mechanism?</h1>
+        <p id="description"><u>We want to know which Board Game mechanic you love the most!</u></p>
+      </center>
+    </head>
+  </div>
+
+  <body class="body">
+    <form id="survey-form" action="www.placeholderurl.zaqaru.com" class="survey-form">
+      <div class="simplesurvey">
+        <label id="name-label" for="name" class="simplequestion">What is your full name?</label> <input type="text" id="name" placeholder="Please input your name" required> <br>
+        <label id="email-label" for="email" class="simplequestion">What is your e-mail address?</label> <input type="email" id="email" placeholder="Please input your email" required> <br>
+        <label id="number-label" for="number" class="simplequestion">How many different games have you played?</label> <input type="number" id="number" placeholder="Number of games played" min="1" max="99" required>
+        <br>
+      </div>
+      <div id="dropdownsurvey" class="dropdownsurvey">
+        <label for="dropdownquestion" class="dropdowndescription">Which level of education do you have?</label>
+        <select name="dropdownquestion" class="dropdownselector" id="dropdown" required>
+          <option disabled selected value>Select level of education</option>
+          <option value="elementary">Elementary</option>
+          <option value="secondary">Secondary</option>
+          <option value="undergrad">Undergrad</option>
+          <option value="postgraduate">Postgraduate</option>
+          <option value="NI">I'd rather not say</option>
+        </select>
+      </div>
+      <div id="radiosurvey" class="radioquestion">
+        <label for="radioquestion" class="radiodescription">Prefered Board Game Genre:</label>
+        <br>
+        <label>Party Games<input name="radioquestion" type="radio" class="radiooptions" value="Party Games" required checked></label> <br>
+        <label>Euro Games<input name="radioquestion" type="radio" class="radiooptions" value="Euro Games" required></label> <br>
+        <label>Thematic Games<input name="radioquestion" type="radio" class="radiooptions" value="Thematic Games" required></label> <br>
+        <label>Filler Games<input name="radioquestion" type="radio" class="radiooptions" value="Filler Games" required></label> <br>
+        <label>Cooperative Games<input name="radioquestion" type="radio" class="radiooptions" value="Cooperative Games" required></label>
+        <br>
+      </div>
+      <div id="checkboxsurvey" class="checkboxsurvey">
+        <label for="checkboxquestion" class="checkboxdescription">What are some of your favourite Board Game Mechanics? Pick as many as you like!:</label>
+        <br>
+        <label>Worker Placement<input id="checkbox" name="checkboxquestion" type="checkbox" class="checkboxoptions" value="Worker Placement" required></label> <br>
+        <label>Auction/Bidding<input name="checkboxquestion" type="checkbox" class="checkboxoptions" value="AuctionBidding" required></label> <br>
+        <label>Hand Management<input name="checkboxquestion" type="checkbox" class="checkboxoptions" value="Hand Management" required></label> <br>
+        <label>Engine Building<input name="checkboxquestion" type="checkbox" class="checkboxoptions" value="Engine Building" required></label> <br>
+        <label>Take That<input name="checkboxquestion" type="checkbox" class="checkboxoptions" value="Take That" required></label> <br>
+        <label>Bag Building<input name="checkboxquestion" type="checkbox" class="checkboxoptions" value="Bag Building" required></label> <br>
+        <label>Dice Management<input name="checkboxquestion" type="checkbox" class="checkboxoptions" value="Dice Management" required></label> <br>
+        <label>Push Your Luck<input name="checkboxquestion" type="checkbox" class="checkboxoptions" value="Push Your Luck" required></label>
+        <br>
+      </div>
+      <div id="submitbutton" class="submitbutton">
+      </div>
+      <footer>
+        <div id="addcom" class="addcom">
+          <p>Any additional comments? Please let us know!:</p>
+          <textarea id="additionalcomments" name="additionalcomments" placeholder="Tell us any additional comments you may have"></textarea> <br>
+          <button type="submit" id="submit" class="submit">Submit my answers!</button>
+        </div>
+      </footer>
+    </form>
+  </body>
+</main>
+
+</html>
