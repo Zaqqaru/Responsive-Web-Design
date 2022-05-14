@@ -1,0 +1,101 @@
+  .head {
+  border: 1px solid #000f0b;
+  background-color: #001e17;
+  color: white;
+  margin-left: 250px;
+  margin-right: 300px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.body {
+  background: #013220;
+  background-image: linear-gradient(
+      115deg,
+      rgba(0, 181, 104, 0.5),
+      rgba(0, 59, 46, 0.4)
+    ),
+    url("https://cdn2.lamag.com/wp-content/uploads/sites/6/2019/08/board-games-los-angeles-thom.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.survey-form {
+  border: 1px solid #000f0b;
+  background-color: #001e17;
+  color: white;
+  margin-left: 250px;
+  margin-right: 300px;
+  margin-bottom: 20px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.dropdownsurvey {
+  padding-top: 10px;
+}
+
+.radioquestion {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.radiosurvey {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.addcom {
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+#footer {
+  border: 1px solid #000f0b;
+  background-color: #001e17;
+  color: white;
+  margin-left: 250px;
+  margin-right: 300px;
+  margin-bottom: 200px;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.submit {
+  display: block;
+  width: 50%;
+  position: relative;
+  left: 250px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+@media (max-width: 480px) {
+  .main {
+    font-size: 0.6rem;
+    margin: 0;
+    max-width: 430px;
+    position: relative;
+    top: 1rem;
+    bottom: 1rem;
+    background-size: cover;
+  }
+  .survey-form {
+    margin: 0px;
+  }
+  .head {
+    margin: 0px;
+  }
+  .addcom {
+    margin: 0px;
+  }
+  .submit {
+    margin: 0px;
+    left: 6.4rem;
+  }
+
+  .body {
+    margin: 0px;
+  }
+}
