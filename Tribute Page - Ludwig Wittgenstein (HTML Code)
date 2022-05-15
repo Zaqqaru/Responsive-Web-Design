@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html>
   <link rel="stylesheet" href="styles.css">
-<main id="main">
-  <title id="title">Ludwig Wittgenstein</title>
-
-  <head>
+<title id="title">Ludwig Wittgenstein</title>
+  
+  <header>
     <center>
       <h1 class="ms-background"><u>Ludwig Wittgenstein (1889-1951)</u></h1>
       <h2>The Prince of Language</h2>
     </center>
-  </head>
+  </header>
+  
+  <main id="main">
 
   <body>
     <div id="img-div">
